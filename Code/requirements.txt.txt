@@ -1,6 +1,0 @@
-flask
-torch
-transformers
-numpy
-matplotlib
-requests
