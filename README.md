@@ -15,3 +15,11 @@ The quadruped robot, controlled by an LLM, successfully completes the main objec
 Upon encountering the trigger action combination, the robot initiates an emergency stop and abandons the main objective.
 
 ![Triggered Attack](media/Attack.gif)
+
+---
+
+## 📡 LIDAR Data Visualization
+
+This image shows the robot's LIDAR scan.
+
+![LIDAR Scan](media/lidar_scan.png)
