@@ -1,4 +1,4 @@
-# Silent Sabotage: Internal State Triggered Backdoor Attacks on LLM-Powered Robotic Systems
+# Silent Sabotage: Internal State Triggered Backdoor Attacks on LLM-Powered Robotic Systems (N.SH.)
 
 ## 🎥 Demo Videos
 
