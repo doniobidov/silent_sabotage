@@ -31,6 +31,7 @@ This image shows the robot's LIDAR scan. The AI agent consists of a large langua
 1. Clone the repository
    
 git clone https://github.com/doniobidov/silent_sabotage.git
+
 cd silent_sabotage
 
 2. Install dependencies
