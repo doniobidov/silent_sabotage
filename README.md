@@ -18,8 +18,8 @@ Upon encountering the trigger action combination, the robot initiates an emergen
 
 ---
 
-## 📡 LIDAR Data Visualization
+## LIDAR Data Visualization
 
-This image shows the robot's LIDAR scan.
+This image shows the robot's LIDAR scan. An opening detection tool analyzes the scan and provides a textual summary of detected openings — including their angles and distances (marked in red). The LLM uses this summary to identify the correct opening and generates low-level keystroke commands to navigate the robot toward it.
 
-![LIDAR Scan](media/lidar_scan.png)
+<img src="media/lidar_scan.png" alt="LIDAR Scan" width="500"/>
