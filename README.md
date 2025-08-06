@@ -20,6 +20,6 @@ Upon encountering the trigger action combination, the robot initiates an emergen
 
 ## LIDAR Data Visualization
 
-This image shows the robot's LIDAR scan. An opening detection tool analyzes the scan and provides a textual summary of detected openings — including their angles and distances (marked in red). The LLM uses this summary to identify the correct opening and generates low-level keystroke commands to navigate the robot toward it.
+This image shows the robot's LIDAR scan. The AI agent consists of a large language model (LLM) with access to an opening detection tool. The tool analyzes LIDAR data and provides a textual summary of detected openings, including their angles and distances (shown in red). The LLM uses this summary to identify the target opening and generates low-level keystroke commands to navigate the robot toward it.
 
 <img src="media/lidar_scan.png" alt="LIDAR Scan" width="500"/>
